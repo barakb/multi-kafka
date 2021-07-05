@@ -40,7 +40,6 @@ class Producers {
             }
     }
 
-
     companion object {
         private val logger = LoggerFactory.getLogger(Producers::class.java)
     }
