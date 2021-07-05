@@ -7,7 +7,7 @@
 *   subscribe to multiple topic. 
 *   buffer by size or time for each stream.
 *   combine the buffers to one stream
-*   use n threads to process to the combined stream
+*   use n threads to process the combined stream
 *   unsubscribe from topic (cleanly)
 
 
