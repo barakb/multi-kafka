@@ -23,7 +23,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 	implementation("io.projectreactor.kafka:reactor-kafka")
-	implementation("org.springdoc:springdoc-openapi-kotlin:1.5.9")
+	implementation("org.springdoc:springdoc-openapi-kotlin:1.8.0")
 	implementation("org.springdoc:springdoc-openapi-webflux-ui:1.5.9")
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
